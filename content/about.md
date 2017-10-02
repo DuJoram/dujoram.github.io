@@ -7,7 +7,7 @@ type: "about"
 
 # Specifications:
 
-| Subject | Description |
+| Key | Value |
 |:------- |:----------- |
 | Name: | Joram S. Liebeskind |
 | Born: | March, 1994 |
