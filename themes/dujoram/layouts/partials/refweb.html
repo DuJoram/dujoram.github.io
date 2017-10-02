@@ -1,0 +1,13 @@
+{{- $length := len .Authors -}}
+{{- $author := index .Authors 0 -}}
+{{- $author := split $author " " -}}
+{{- $firstname := index $author 0 -}}
+{{- $surname := index $author (sub (len $author) 1) -}}
+{{- slicestr $firstname 0 1 }}. {{ $surname -}}
+{{- if gt $length 1 -}}
+, et al.
+{{- else -}}
+.
+{{- end }}
+({{ .Year }}). {{ .Title }} [Online]. Available: <a href="{{ .Available }}">{{ .Available }}</a>
+

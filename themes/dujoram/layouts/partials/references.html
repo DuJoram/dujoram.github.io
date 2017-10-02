@@ -1,0 +1,18 @@
+<h1 id="references">References</h1>
+<table>
+	<tbody>
+		{{ range . }}
+		<tr>
+			<td>[<a name="{{ .Ref }}"></a>{{ .Ref }}]</td>
+			<td>
+				{{- if eq .Type "journal" -}}
+				{{- partial "refjournal.html" . -}}
+				{{ end }}
+				{{- if eq .Type "web" -}}
+				{{- partial "refweb.html" . -}}
+				{{ end }}
+			</td>
+		</tr>
+		{{ end }}
+	</tbody>
+</table>

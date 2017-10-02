@@ -1,0 +1,29 @@
+baseURL = "dujoram.github.io"
+languageCode = "en-us"
+title = "Joram S. Liebeskind"
+author = "Joram S. Liebeskind"
+theme = "dujoram"
+
+disqusShortname = "dujoram"
+
+[params]
+	header = "Joram S. Liebeskind"
+	subtitle = "CS Student and Science Nerd"
+	twitter = "DuJoram"
+	instagram = "DuJoram"
+	github = "DuJoram"
+	copyYear = 2017
+	copyHolder = "Joram Liebeskind"
+
+[[menu.global]]
+	name = "Blog"
+	weight = 1
+	identifier = "blog"
+	url = "/"
+
+[[menu.global]]
+	name = "About"
+	weight = 10
+	identifier = "about"
+	url = "/about/"
+

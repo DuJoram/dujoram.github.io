@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Dujoram"
+license = "MIT"
+licenselink = "https://github.com/DuJoram/hugo-dujoram/blob/master/LICENSE.md"
+description = "A minimalistic theme for my blog"
+homepage = "https://github.com/DuJoram/hugo-dujoram/"
+tags = []
+features = []
+min_version = "0.27.1"
+
+[author]
+  name = "Joram Liebeskind"
+  homepage = "joramliebeskind.com"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
