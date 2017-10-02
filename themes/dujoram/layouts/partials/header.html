@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="UTF-8">
 		<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/dreampulse/computer-modern-web-font/master/fonts.css">
-		<link rel="stylesheet" type="text/css" href="{{ "css/reset.css" | absURL }}">
-		<link rel="stylesheet" type="text/css" href="{{ "css/main.css" | absURL }}">
+		<link rel="stylesheet" type="text/css" href="{{ "css/reset.css" | relURL }}">
+		<link rel="stylesheet" type="text/css" href="{{ "css/main.css" | relURL }}">
 		<title>{{ .Title }}</title>
 		{{ .Hugo.Generator }}
 	</head>
@@ -18,7 +18,7 @@
 				<ul>
 					{{ range .Site.Menus.global }}
 					<li><a href="{{ .URL | relURL }}">{{ .Name }}</a>
-					{{ end}}
+					{{ end }}
 				</ul>
 			</nav>
 		</header>
