@@ -229,7 +229,11 @@ footer {
 	font-size: 1.3em;
 }
 
-.markdown td {
+.markdown th {
+	font-weight: bold;
+}
+
+.markdown td, .markdown th {
 	padding: 0.2em;
 }
 
@@ -256,4 +260,5 @@ footer {
 .disqus {
 	margin-top: 2em;
 }
+
 
