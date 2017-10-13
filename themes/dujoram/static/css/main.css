@@ -1,5 +1,5 @@
 html, body {
-	width: 100vw;
+	width: 100%;
 	box-sizing: border-box;
 }
 
@@ -9,6 +9,14 @@ html, body {
 
 body {
 	font-family: 'Computer Modern Serif', serif;
+}
+
+a {
+	color: blue;
+}
+
+a:visited {
+	color: blue;
 }
 
 h1, h2, h3, h4, h5, h6, header, footer {
@@ -54,7 +62,7 @@ header, main, footer {
 	}
 }
 
-.header-title {
+.header-title, .header-title:visited {
 	color: black;
 }
 
@@ -90,7 +98,7 @@ nav a {
 
 
 nav a:visited {
-
+	color: black;
 }
 
 nav a:hover {
