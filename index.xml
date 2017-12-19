@@ -6,10 +6,21 @@
     <description>Recent content on Joram S. Liebeskind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Oct 2017 00:10:50 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2017 12:33:58 +0100</lastBuildDate>
     
 	<atom:link href="https://dujoram.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AI Revisited</title>
+      <link>https://dujoram.github.io/post/ai_revisited/</link>
+      <pubDate>Tue, 19 Dec 2017 12:33:58 +0100</pubDate>
+      
+      <guid>https://dujoram.github.io/post/ai_revisited/</guid>
+      <description>&lt;p&gt;About two months ago, I wrote my previous blog post on ANI, AGI and ASI as part of an assignment in an AI course I&amp;rsquo;m attending. This is a follow up post, which is written to complete the second part of that assignment. After reading a more critical blog post on the topic &lt;a href=&#34;#BROR00&#34;&gt;BROR00&lt;/a&gt; and after a semester of learning about AI, this shall be a follow up to my previous blog post.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>On Artificial Superintelligence</title>
