@@ -34,6 +34,7 @@ About two months ago, I wrote my previous blog post on ANI, AGI and ASI as part 
 I like disclamiers. They let me speak more freely and let you understand my biases. Most importantly though, they let you know how (un)trustworthy the information I put here is.
 I encourage you to read to read the disclaimer I put at the top of my previous blog post, since it still holds true. There is a tiny difference, however: I now have a slightly better impression of the field of AI, as we were given a solid overview of the field during the last semester at the AI course. Also I've worked on a project wich tried to improve the training of Generative Adversarial Networks, a specific kind of Artificial Neural Nets.
 
+
 # ASI is not Worth Thinking or Worrying About
 I strongly disagree. Rodney Brooks proposes the concept, that technology often doesn't develop exponentially, but rather follows an S curve, meaning it develops quickly, then disappoints and only later becomes established. He also shows, with the example of the iPods storage over several generations, that it did not increase exponentially.[BROR00]({{< relref "#BROR00" >}})
 
