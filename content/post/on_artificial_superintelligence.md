@@ -1,7 +1,7 @@
 ---
 title: "On Artificial Superintelligence"
 date: 2017-10-02T00:10:50+02:00
-draft: false
+draft: true
 type: "post"
 references:
   - Type: "journal"

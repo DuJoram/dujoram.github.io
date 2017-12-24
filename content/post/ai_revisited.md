@@ -1,7 +1,7 @@
 ---
 title: "AI Revisited"
 date: 2017-12-19T12:33:58+01:00
-draft: false
+draft: true
 type: "post"
 references:
   - Type: "web"
