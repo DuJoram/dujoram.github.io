@@ -8,7 +8,8 @@ html, body {
 }
 
 body {
-	font-family: 'Computer Modern Serif', serif;
+/*	font-family: 'Computer Modern Serif', serif;*/
+	font-family: Times New Roman, serif;
 }
 
 a {
@@ -20,7 +21,8 @@ a:visited {
 }
 
 h1, h2, h3, h4, h5, h6, header, footer {
-	font-family: 'Computer Modern Sans', sans-serif;
+/*	font-family: 'Computer Modern Sans', sans-serif;*/
+	font-family: Sans;
 }
 
 header {
@@ -71,7 +73,8 @@ header, main, footer {
 }
 
 nav {
-	font-family: 'Computer Modern Sans', sans-serif;
+/*	font-family: 'Computer Modern Sans', sans-serif;*/
+	font-family: Sans;
 	width: 100%;
 	height: 1.5em;
 	line-height: 1.5em;
@@ -126,7 +129,8 @@ nav a:hover {
 .post-date {
 	color: grey;
 	font-size: 0.8em;
-	font-family: 'Computer Modern Sans', sans-serif;
+/*	font-family: 'Computer Modern Sans', sans-serif;*/
+	font-family: sans;
 	margin-top: 0.5em;
 	margin-bottom: 0.8em;
 }
@@ -141,7 +145,8 @@ nav a:hover {
 
 .post-read-more {
 	text-decoration: none;
-	font-family: 'Computer Modern Sans', sans-serif;
+	/*font-family: 'Computer Modern Sans', sans-serif;*/
+	font-family: sans;
 	color: blue;
 }
 
@@ -206,7 +211,8 @@ footer {
 	padding-top: 1em;
 	padding-bottom: 0.5em;
 	font-weight: bold;
-	font-family: 'Computer Modern Serif', serif;
+	/*font-family: 'Computer Modern Serif', serif;*/
+	font-family: Times New Roman, serif;
 }
 
 .markdown .post-title {
